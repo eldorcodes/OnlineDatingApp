@@ -1,0 +1,18 @@
+{
+  "name": "onlinedatingapp",
+  "version": "1.0.0",
+  "description": "Online Dating App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Eldor Togaymurotov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
